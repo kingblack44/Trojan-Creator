@@ -7,6 +7,6 @@
 # gem install lolcat
 # git clone https://github.com/kingblack44/Trojan-Creator
 # cd Trojan-Creator
-# sh Trojan-Creator.sh
+# sh Trojan-Creator1.sh
 # Subscribe
 # Ariel 69 Channel
